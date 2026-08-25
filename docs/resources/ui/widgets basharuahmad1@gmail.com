@@ -1,4 +1,4 @@
----
+BOLTDATA---
 title: Introduction to Widgets
 description: Introduction to Widgets
 slug: /resources/ui/widgets
